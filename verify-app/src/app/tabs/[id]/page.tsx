@@ -1,9 +1,7 @@
 import { promises as fs } from 'fs';
 import path from 'path';
 import InfluencerTabs from '@/components/Tabs';
-import { InfluencerTab } from '@/interfaces';
-
-
+import { InfluencerTab, PageProps } from '@/interfaces';
 
 async function getInfluencerData(id: string): Promise<InfluencerTab | null> {
   const jsonDirectory = path.join(process.cwd(), 'public/data');
@@ -12,8 +10,9 @@ async function getInfluencerData(id: string): Promise<InfluencerTab | null> {
   return data.find(influencer => influencer.id.toString() === id) || null;
 }
 
-export default async function InfluencerPage({ params }: { params: { id: string } }) {
-  const influencer = await getInfluencerData(params.id);
+export default async function InfluencerPage({ params }: PageProps) {
+  const { id } = await params;
+  const influencer = await getInfluencerData(id);
 
   if (!influencer) {
     return <div>Influencer not found</div>;

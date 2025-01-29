@@ -73,3 +73,7 @@ export interface InfluencersStatsProps {
 export interface InfluencerTabsProps {
     influencere: InfluencerTab;
   }
+
+export  interface PageProps {
+    params: Promise<{ id: string }>;
+  }  

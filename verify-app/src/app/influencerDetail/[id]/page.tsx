@@ -19,9 +19,10 @@ async function getInfluencerDataE(id: string): Promise<Influencer | null> {
   return data.find(influencer => influencer.id.toString() === id) || null;
 }
 
-export default async function InfluencerDetailPage({ params }: { params: { id: string } }) {
-  const influencer = await getInfluencerData(params.id);
-  const influencere = await getInfluencerDataE(params.id);
+export default async function InfluencerDetailPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const influencer = await getInfluencerData(id);
+  const influencere = await getInfluencerDataE(id);
 
   if (!influencer || !influencere) {
     return <div>Influencer not found</div>;
@@ -42,4 +43,3 @@ export default async function InfluencerDetailPage({ params }: { params: { id: s
     </div>
   );
 }
-
