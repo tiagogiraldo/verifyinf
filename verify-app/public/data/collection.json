@@ -1,0 +1,471 @@
+[
+{
+    "id":1,
+    "name": "Deepak Chopra",
+    "followers": {
+        "Instagram": 2736378,
+        "Facebook": 3000000,
+        "Twitter": 3000000,
+        "YouTube": 500000
+    },
+    "estimatedRevenueYearly": 5000000,
+    "categories": [
+        "Wellness",
+        "Spirituality",
+        "Meditation",
+        "Ayurveda",
+        "Self-help"
+    ],
+    "products": [
+        "Books",
+        "Meditation apps",
+        "Wellness retreats",
+        "Ayurvedic products"
+    ],
+    "claims": 10,
+    "positive": 1000000,
+    "citations": 5849,
+    "books": [
+        "The Seven Spiritual Laws of Success",
+        "Ageless Body, Timeless Mind",
+        "Perfect Health",
+        "Quantum Healing",
+        "The Future of God",
+        "Metahuman",
+        "Total Meditation"
+    ],
+    "userNames": {
+        "Instagram": "@deepakchopra",
+        "Facebook": "DeepakChopra",
+        "Twitter": "@DeepakChopra",
+        "YouTube": "@DeepakChopra"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Deepak Chopra is a world-renowned figure in alternative medicine and personal transformation. Born in India and trained as a physician, he has become a leading voice in the field of mind-body healing and integrative medicine. Chopra has authored over 90 books, many of which are international bestsellers. He is the founder of The Chopra Foundation and Chopra Global, organizations that promote health and well-being. Known for blending Western medicine with Eastern spirituality, Chopra's teachings often focus on meditation, Ayurveda, and consciousness. Despite some controversies, he maintains a large following and continues to influence millions through his books, speaking engagements, and digital platforms.",
+    "totalSNFollowers": 9236378,
+    "trueScore": 0.999990000099999
+},
+{
+    "id":2,
+    "name": "Angel Love Davis",
+    "followers": {
+        "Instagram": 1000000,
+        "YouTube": 1200,
+        "Twitter": 14000,
+        "Facebook": 500000
+    },
+    "estimatedRevenueYearly": 200000,
+    "categories": [
+        "lifestyle",
+        "fashion",
+        "nursing",
+        "entrepreneurship"
+    ],
+    "products": "Life Angels scrubs",
+    "claims": 0,
+    "positive": 5000,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Instagram": "iloveangel2",
+        "Twitter": "Iloveangel2",
+        "YouTube": "angellovedavis"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Angel Love Davis is a multi-talented individual who has made a name for herself as a registered nurse, reality TV star, actress, and entrepreneur. Rising to fame on VH1's 'Basketball Wives LA', she has since leveraged her popularity to build a successful career in entertainment and fashion. Angel holds a nursing degree and has founded Life Angels, a stylish scrubs line for healthcare professionals. With over 1 million followers across social media platforms, she actively engages her audience by sharing insights into her diverse career and personal life. Angel has also ventured into acting, appearing in various films and TV series, showcasing her versatility and ambition.",
+    "totalSNFollowers": 1515200,
+    "trueScore": 1
+},
+{
+    "id":3,
+    "name": "Jennifer Gunter",
+    "followers": {
+        "Instagram": 200000,
+        "Twitter": 360000,
+        "Facebook": 50000
+    },
+    "estimatedRevenueYearly": 500000,
+    "categories": [
+        "women's health",
+        "gynecology",
+        "medical misinformation"
+    ],
+    "products": "books",
+    "claims": 5,
+    "positive": 10000,
+    "citations": 50,
+    "books": [
+        "The Preemie Primer",
+        "The Vagina Bible",
+        "The Menopause Manifesto"
+    ],
+    "userNames": {
+        "Instagram": "@drjengunter",
+        "Twitter": "@DrJenGunter",
+        "Facebook": "@DrJGunter"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Dr. Jennifer Gunter is a renowned OB-GYN, pain medicine physician, and women's health advocate. Known as 'Twitter's resident gynecologist,' she has gained prominence for debunking medical misinformation and promoting evidence-based women's health information. Gunter is a New York Times bestselling author, with books like 'The Vagina Bible' and 'The Menopause Manifesto.' She actively combats pseudoscience in women's health, particularly criticizing products promoted by Gwyneth Paltrow's Goop. Gunter uses her substantial social media following to educate the public on reproductive health, menopause, and general women's wellness issues. Her work spans multiple platforms, including a blog, columns for major publications, and a CBC docuseries called 'Jensplaining.'",
+    "totalSNFollowers": 610000,
+    "trueScore": 0.9995002498750625
+},
+{
+    "id":4,
+    "name": "Sanjay Gupta",
+    "followers": {
+        "Instagram": 245476,
+        "Twitter": 2500000,
+        "Facebook": 96700
+    },
+    "estimatedRevenueYearly": 90000,
+    "categories": [
+        "Health",
+        "Medicine",
+        "Neurosurgery",
+        "Journalism"
+    ],
+    "products": "Books",
+    "claims": 0,
+    "positive": 1414,
+    "citations": 21268,
+    "books": [
+        "Chasing Life",
+        "Cheating Death",
+        "Monday Mornings: A Novel",
+        "Keep Sharp"
+    ],
+    "userNames": {
+        "Instagram": "@drsanjaygupta",
+        "Twitter": "@drsanjaygupta",
+        "Facebook": "@SanGuptaMD"
+    },
+    "consultationDate": "2025-01-25",
+    "bio": "Dr. Sanjay Gupta is a renowned neurosurgeon, medical reporter, and author. He serves as CNN's chief medical correspondent and has won multiple Emmy Awards for his work. Gupta is an associate professor of neurosurgery at Emory University School of Medicine and associate chief of neurosurgery at Grady Memorial Hospital. He has authored several bestselling books on health and medicine. During the COVID-19 pandemic, Gupta became a prominent voice in public health communication. He is known for his ability to explain complex medical issues to the general public and his advocacy for health and wellness.",
+    "totalSNFollowers": 2842176,
+    "trueScore": 1
+},
+{
+    "id":5,
+    "name": "Regina Holliday",
+    "followers": {
+        "Twitter": 20000,
+        "Facebook": 3000
+    },
+    "estimatedRevenueYearly": 50000,
+    "categories": [
+        "healthcare",
+        "patientrights",
+        "art"
+    ],
+    "products": "patientadvocacyart",
+    "claims": 0,
+    "positive": 200,
+    "citations": 5,
+    "books": [
+        "The Walking Wall: 73 Cents to the Walking Gallery",
+        "The Writing on the Wall"
+    ],
+    "userNames": {
+        "Twitter": "@ReginaHolliday",
+        "Instagram": "@regina_holliday"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Regina Holliday is a patient rights activist, artist, and founder of the Walking Gallery movement. After losing her husband to kidney cancer in 2009, she began using art to advocate for transparency in medical records and patient rights. Holliday paints murals and jacket backs to tell patient stories and has spoken at numerous healthcare conferences. Her work has been featured in major media outlets and has influenced health policy discussions. Through her advocacy, Holliday has become a prominent voice in the patient-centered care movement, using her artistic talents to bridge the gap between patients and healthcare providers.",
+    "totalSNFollowers": 23000,
+    "trueScore": 1
+},
+{
+    "id":6,
+    "name": "Carlos Jaramillo",
+    "followers": {
+        "Instagram": 2233313,
+        "YouTube": 100000
+    },
+    "estimatedRevenueYearly": 500000,
+    "categories": [
+        "health",
+        "nutrition",
+        "functionalmedicine"
+    ],
+    "products": "supplements",
+    "claims": 1,
+    "positive": 100000,
+    "citations": 19519,
+    "books": [
+        "El milagro metab\u00f3lico"
+    ],
+    "userNames": {
+        "Instagram": "drcarlosjaramillo",
+        "YouTube": "DrCarlos"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Dr. Carlos Jaramillo is a Colombian functional medicine specialist and nutrition expert with a significant social media presence. He studied at La Sabana University and the Institute of Functional Medicine in the United States. Jaramillo focuses on lifestyle-based health strategies and educates his audience on metabolism, nutrition, and overall well-being through various platforms including Instagram, YouTube, books, and virtual courses. His content aims to empower individuals to take control of their health using scientifically-backed approaches. Jaramillo's work bridges traditional medicine with functional and nutritional practices, garnering him a large following in the Spanish-speaking world.",
+    "totalSNFollowers": 2333313,
+    "trueScore": 0.999990000099999
+},
+{
+    "id":7,
+    "name": "David Katz",
+    "followers": {
+        "Instagram": 8259,
+        "Twitter": 54000,
+        "Facebook": 28000
+    },
+    "estimatedRevenueYearly": 150000,
+    "categories": [
+        "health",
+        "nutrition",
+        "medicine",
+        "lifestyle"
+    ],
+    "products": "Diet ID",
+    "claims": 5,
+    "positive": 1000,
+    "citations": 200,
+    "books": [
+        "How to Eat",
+        "The Truth About Food",
+        "Disease-Proof",
+        "The Flavor Point Diet",
+        "The Way to Eat"
+    ],
+    "userNames": {
+        "Instagram": "@davidkatz",
+        "Twitter": "@DrDavidKatz",
+        "Facebook": "@DrDavidKatz"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Dr. David Katz is a renowned expert in preventive medicine, nutrition, and lifestyle medicine. He is the founding director of Yale University's Yale-Griffin Prevention Research Center, past president of the American College of Lifestyle Medicine, and founder of the True Health Initiative. Katz has authored numerous books, holds multiple patents, and has a significant social media presence. He is recognized for his work in health promotion, disease prevention, and the intersection of human and planetary health. Katz is also the founder and CEO of Diet ID, a dietary assessment and behavior change platform.",
+    "totalSNFollowers": 90259,
+    "trueScore": 0.9950248756218906
+},
+{
+    "id":8,
+    "name": "Sarah Kliff",
+    "followers": {
+        "Twitter": 154000,
+        "Facebook": 0
+    },
+    "estimatedRevenueYearly": 150000,
+    "categories": [
+        "healthcare",
+        "policy",
+        "journalism"
+    ],
+    "products": "None",
+    "claims": 0,
+    "positive": 0,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Twitter": "@sarahkliff",
+        "Facebook": "@skliff"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Sarah Kliff is a prominent health policy journalist and investigative reporter for The New York Times. With nearly a decade of experience covering healthcare issues, she has become one of the country's leading voices on the Affordable Care Act and other health policy matters. Kliff's reporting has influenced legislation, been cited by the Supreme Court, and led to changes in hospital billing practices. Previously, she worked at Vox and The Washington Post, where she gained recognition for making complex policy issues understandable to the public. Kliff is known for her data-driven approach to journalism and her ability to uncover systemic issues in the U.S. healthcare system.",
+    "totalSNFollowers": 154000,
+    "trueScore": 1
+},
+{
+    "id":9,
+    "name": "Michelle Lewin",
+    "followers": {
+        "Instagram": 16000000,
+        "YouTube": 402000,
+        "Twitter": 457000,
+        "Facebook": 8600000
+    },
+    "estimatedRevenueYearly": 1200000,
+    "categories": [
+        "Fitness",
+        "Lifestyle",
+        "Modeling"
+    ],
+    "products": "FitPlan",
+    "claims": 0,
+    "positive": 1000,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Instagram": "@michelle_lewin",
+        "YouTube": "Michelle Lewin",
+        "Twitter": "@Michelle_Lewin",
+        "Facebook": "MichelleLewin"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Michelle Lewin is a Venezuelan fitness influencer, model, and entrepreneur who has risen to prominence in the fitness industry. With over 16 million Instagram followers, she is known for her impressive physique and dedication to fitness. Lewin shares workout routines, nutritional tips, and lifestyle content across various social media platforms. She has transitioned from a catwalk model to a fitness model and IFBB competitor. Lewin has leveraged her social media success to launch her own workout app, FitPlan, and clothing brand, One0One. Her engaging content and positive energy have made her a beloved figure in the fitness community, inspiring millions to pursue healthier lifestyles.",
+    "totalSNFollowers": 25459000,
+    "trueScore": 1
+},
+{
+    "id":10,
+    "name": "Kait Malthaner",
+    "followers": {
+        "Instagram": 154000,
+        "YouTube": 579000,
+        "Facebook": null,
+        "Twitter": null,
+        "TikTok": null
+    },
+    "estimatedRevenueYearly": 150000,
+    "categories": [
+        "nutrition",
+        "health",
+        "keto",
+        "carnivore"
+    ],
+    "products": [
+        "Berberine supplements",
+        "Inositol supplements",
+        "Collagen powder"
+    ],
+    "claims": 2,
+    "positive": 500,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Instagram": "healthcoachkait",
+        "YouTube": "Kait Malthaner (BSc Nutrition & Exercise)",
+        "Facebook": "healthcoachkait",
+        "Twitter": "healthcoachkait"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Kait Malthaner is a certified health coach and YouTuber based in Australia, specializing in ketogenic and carnivore diets. With a BSc in Nutrition & Exercise, she focuses on helping clients achieve weight loss and fitness goals through a nutrient-dense, high-fat, low-carb approach. Kait shares her personal journey of overcoming weight struggles and anxiety through dietary changes. She creates content on YouTube and Instagram, offering advice on topics such as insulin resistance, blood sugar control, and overall health optimization. Kait is known for her straightforward approach to nutrition and her advocacy for animal-based diets.",
+    "totalSNFollowers": 733000,
+    "trueScore": 0.9960159362549801
+},
+{
+    "id":11,
+    "name": "Danielle Ofri",
+    "followers": {
+        "Instagram": 1468,
+        "Twitter": 12000,
+        "Facebook": 5000
+    },
+    "estimatedRevenueYearly": 50000,
+    "categories": [
+        "Medicine",
+        "Writing",
+        "Healthcare"
+    ],
+    "products": "Books",
+    "claims": 0,
+    "positive": 500,
+    "citations": 1000,
+    "books": [
+        "When We Do Harm: A Doctor Confronts Medical Error",
+        "What Patients Say, What Doctors Hear",
+        "What Doctors Feel",
+        "Medicine in Translation",
+        "Singular Intimacies",
+        "Incidental Findings"
+    ],
+    "userNames": {
+        "Instagram": "@danielle_ofri",
+        "Twitter": "@danielleofri",
+        "Facebook": "@danielleOfriMD"
+    },
+    "consultationDate": "2024-01-26",
+    "bio": "Dr. Danielle Ofri is a practicing physician at Bellevue Hospital and a clinical professor of medicine at NYU. She is a prolific writer, contributing to publications like the New York Times and The New Yorker. As the founder and editor-in-chief of the Bellevue Literary Review, she bridges medicine and literature. Dr. Ofri has authored six books on life in medicine and is known for her TED talks. She is a recipient of the National Humanism in Medicine Medal and a Guggenheim Fellowship, advocating for improving doctor-patient relationships and bringing humanity back to healthcare.",
+    "totalSNFollowers": 18468,
+    "trueScore": 1
+},
+{
+    "id":12,
+    "name": "Kevin Pho",
+    "followers": {
+        "Instagram": 9186,
+        "Twitter": 250000,
+        "Facebook": 250000
+    },
+    "estimatedRevenueYearly": 500000,
+    "categories": [
+        "healthcare",
+        "medicine",
+        "socialmedia"
+    ],
+    "products": "books",
+    "claims": 0,
+    "positive": 5,
+    "citations": 0,
+    "books": [
+        "Establishing, Managing, and Protecting Your Online Reputation: A Social Media Guide for Physicians and Medical Practices"
+    ],
+    "userNames": {
+        "Instagram": "@kevinphomd",
+        "Twitter": "@kevinmd",
+        "Facebook": "@Kevinmdblog"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Kevin Pho is a board-certified internal medicine physician, national media commentator, and social media leader in healthcare. He founded KevinMD.com in 2004, which has become a leading platform for physicians, advanced practitioners, nurses, medical students, and patients to share insights and stories. Pho is also an acclaimed keynote speaker, addressing major medical conferences nationwide. He hosts 'The Podcast by KevinMD' and has co-authored a book on online reputation management for medical professionals. Pho's work has been featured in major media outlets, and he is recognized as a top influencer in healthcare and medicine.",
+    "totalSNFollowers": 509186,
+    "trueScore": 1
+},
+{
+    "id":13,
+    "name": "Kaitlyn Reichert",
+    "followers": {
+        "Instagram": 2253977,
+        "TikTok": 347000,
+        "YouTube": null,
+        "Twitter": null,
+        "Facebook": null
+    },
+    "estimatedRevenueYearly": 144000,
+    "categories": [
+        "fashion",
+        "lifestyle",
+        "beauty",
+        "wedding"
+    ],
+    "products": "PAINT Nail Bar St. Louis",
+    "claims": 0,
+    "positive": 0,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Instagram": "tru.kait",
+        "TikTok": null,
+        "YouTube": null,
+        "Twitter": null,
+        "Facebook": null
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Kaitlyn Reichert, known as Kait, is a social media influencer based in St. Louis, Missouri. She shares content about fashion, lifestyle, beauty, and her wedding journey. With over 2 million Instagram followers, Kait engages her audience with style inspiration and trendy finds. Her content strategy blends professional expertise with authentic storytelling, resonating with executives, entrepreneurs, and authors. Kait's influence extends to her newsletter 'Build A Brand' with over 51,000 subscribers. She's recognized for her ability to simplify complex branding strategies and deliver actionable insights to her followers.",
+    "totalSNFollowers": 2600977,
+    "trueScore": 1
+},
+{
+    "id":14,
+    "name": "Mike Varshavski",
+    "followers": {
+        "Instagram": 4497931,
+        "YouTube": 13200000,
+        "TikTok": 11400000,
+        "Twitter": 2100000,
+        "Facebook": 4200000
+    },
+    "estimatedRevenueYearly": 5000000,
+    "categories": [
+        "Health",
+        "Medicine",
+        "Lifestyle"
+    ],
+    "products": "Skincare",
+    "claims": 0,
+    "positive": 1000000,
+    "citations": 0,
+    "books": [],
+    "userNames": {
+        "Instagram": "doctor.mike",
+        "YouTube": "doctormike",
+        "TikTok": "doctor.mike",
+        "Twitter": "realdoctormike",
+        "Facebook": "realdoctormike"
+    },
+    "consultationDate": "2025-01-26",
+    "bio": "Dr. Mike Varshavski is a board-certified family medicine physician and social media influencer known as 'Doctor Mike'. With over 23 million followers across platforms, he makes medical information accessible and engaging. Born in Russia, he immigrated to the US at age 6 and became a doctor by 24. Dr. Mike uses his platform to combat health misinformation, promote wellness, and raise awareness on various medical topics. He practices in New York and New Jersey, hosts 'The Checkup' podcast, and engages in charitable initiatives. His unique blend of medical expertise and media savvy has made him a trusted voice in digital health education.",
+    "totalSNFollowers": 35397931,
+    "trueScore": 1
+}
+]
